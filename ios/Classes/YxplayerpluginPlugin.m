@@ -7,6 +7,8 @@
             binaryMessenger:[registrar messenger]];
   YxplayerpluginPlugin* instance = [[YxplayerpluginPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];
+    
+    NSLog(@"aaa");
 }
 
 - (void)handleMethodCall:(FlutterMethodCall*)call result:(FlutterResult)result {
