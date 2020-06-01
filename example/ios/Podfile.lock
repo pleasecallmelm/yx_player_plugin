@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - yxplayerplugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - yxplayerplugin (from `.symlinks/plugins/yxplayerplugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  yxplayerplugin:
+    :path: ".symlinks/plugins/yxplayerplugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  yxplayerplugin: 9cf38a75a8f3bccff1637c766a1d3fb082a01888
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.9.2
